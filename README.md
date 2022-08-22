@@ -1,0 +1,2 @@
+# PCB_mulitclass_defect_detection_UNET
+we propose an optimal method for automatic anomaly detection of PCBs where a U-NET performs a semantic segmentation and localizes individual defects. This method would not only notify the user of a defect, but also classify the type of defect by labeling the pixel of the detected defect. The proposed method is validated by comparing the predicted images with the ground truth images.
